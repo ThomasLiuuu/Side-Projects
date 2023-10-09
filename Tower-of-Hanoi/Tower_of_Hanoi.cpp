@@ -1,11 +1,3 @@
-/******************************************************
-Name: Thomas Liu
-Teacher: Dr. Noukhovitch
-Class: ICS4U1-4A
-Assignment: Chapter 7 Exception: Using in program
-Date: Apr 20, 2022
-******************************************************/
-
 #include <iostream>
 #include <exception>
 #include <string>
