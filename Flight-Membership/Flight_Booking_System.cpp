@@ -1,11 +1,3 @@
-/******************************************************
-Name: Thomas Liu
-Teacher: Dr. Noukhovitch
-Class: ICS4U1-4A
-Assignment: Chapter 5 Flight Booking System Part 3
-Date: Mar 03, 2022
-******************************************************/
-
 #include <iostream>
 
 using namespace std;
