@@ -1,0 +1,12 @@
+# Ignore files with extension `.class` & `.exe`
+*.exe
+*.o
+*.d
+
+# Ignore `bin` dir
+bin/
+# or
+*/bin/*
+
+# Unignore all `.exe` in `bin` dir
+!*/bin/*.exe
